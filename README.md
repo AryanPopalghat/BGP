@@ -1,4 +1,5 @@
 ## Blogger App 
+You can check the live app running on https://aryanpopalghat.github.io/BGP/ .
 I have created this blogger app as a self project using react. This app has many features. You can also navigate from home page to about page, contact page, etc.  I have explained all the features of the website in this video: (https://www.youtube.com/watch?v=c2TKdcuDf-U)
 # Remember to install files given in gitignore before running the app on your local server. (Because files such as node_modules which are large are not uploaded on github)
 Some features of the app are as follows:
